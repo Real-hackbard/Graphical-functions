@@ -31,7 +31,42 @@ The red curve is the [graph of a function](https://en.wikipedia.org/wiki/Graph_o
 
 </br>
 
+# Drawing function
+```pascal
+procedure TForm1.darstellung(Sender: TObject);
+var
+  Bitmap: TBitmap;
+begin
+  farbig:=m_farbe.Checked;
+  grafb:=paintbox1.width;
+  grafh:=paintbox1.Height;
 
+  // Initialization of the coordinate system
+  wbx:=1.0*(_x2-_x1);
+  wby:=1.0*(_y2-_y1);
+
+  fx:=grafb/wbx;
+  fy:=grafh/wby;
+
+  _x:=round(-_x1*grafb/(_x2-_x1));
+  _y:=round(grafh+_y1*grafh/(_y2-_y1));
+
+  Bitmap := TBitmap.Create;
+  Bitmap.Width := paintbox1.Width;
+  Bitmap.Height := paintbox1.Height;
+  bitmap.canvas.font.name:='Verdana';
+  bitmap.canvas.font.size:=9;
+
+  setbkmode(bitmap.canvas.handle,transparent);
+  try
+    koordinatensystem(bitmap.canvas);
+    zeichnen(bitmap.canvas);
+    paintbox1.canvas.draw(0,0,bitmap);
+  finally
+    Bitmap.Free;
+  end;
+end;
+EE
 
 
 
