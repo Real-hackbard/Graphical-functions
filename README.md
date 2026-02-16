@@ -10,7 +10,7 @@
 
 </br>
 
-
+In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. The set X is called the [domain](https://en.wikipedia.org/wiki/Domain_of_a_function) of the function and the set Y is called the [codomain](https://en.wikipedia.org/wiki/Codomain) of the function.
 
 
 
