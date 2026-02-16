@@ -106,6 +106,52 @@ begin
 end;
 ```
 
+# Save function
+```pascal
+procedure gifsave(bitmap:tbitmap;const f:string);
+var
+  GIF	: TGIFImage;
+begin
+  GIF := TGIFImage.Create;
+  try
+    GIF.Assign(Bitmap);
+    GIF.SaveToFile(f);
+  finally
+    GIF.Free;
+  end;
+end;
+begin
+  sd1.filterindex:=3;
+  sd1.filename:='';
+  if sd1.execute then begin
+    try
+      darstellung(sender);
+    finally
+      Bitmap := TBitmap.Create;
+      Bitmap.Width := paintbox1.Width;
+      Bitmap.Height := paintbox1.Height;
+
+      birect.left:=0;
+      birect.right:=paintbox1.width;
+      birect.top:=0;
+      birect.bottom:=paintbox1.height;
+      myrect:=birect;
+
+      bitmap.canvas.copyrect(biRect,paintbox1.Canvas, MyRect);
+      if sd1.filterindex=2 then Bitmap.PixelFormat := pf4bit;
+
+      if sd1.filterindex<3 then begin
+        f:=tfilestream.create(sd1.filename,fmcreate);
+        bitmap.savetostream(f);
+        f.free;
+      end;
+      if sd1.filterindex=3 then gifsave(bitmap,sd1.filename);
+      if sd1.filterindex=4 then metadatei;
+      Bitmap.Free;
+    end;
+  end;
+end;
+```
 
 
 
