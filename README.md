@@ -12,7 +12,7 @@
 
 In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. The set X is called the [domain](https://en.wikipedia.org/wiki/Domain_of_a_function) of the function and the set Y is called the [codomain](https://en.wikipedia.org/wiki/Codomain) of the function.
 
-
+Functions were originally the idealization of how a varying quantity depends on another quantity. For example, the position of a planet is a function of time. [Historically](https://en.wikipedia.org/wiki/History_of_the_function_concept), the concept was elaborated with the infinitesimal [calculus](https://en.wikipedia.org/wiki/Calculus) at the end of the 17th century, and, until the 19th century, the functions that were considered were [differentiable](https://en.wikipedia.org/wiki/Differentiable_function) (that is, they had a high degree of regularity). The concept of a function was formalized at the end of the 19th century in terms of set theory, and this greatly increased the possible applications of the concept.
 
 
 
