@@ -66,7 +66,7 @@ begin
     Bitmap.Free;
   end;
 end;
-EE
+```
 
 
 
