@@ -68,7 +68,43 @@ begin
 end;
 ```
 
+# Animate function:
+```pascal
+procedure TForm1.Timer1Timer(Sender: TObject);
+var
+  x,diff:double;
+begin
+  if rb_punkta.checked then begin
+    diff:=ein_double(ed_delta);
+    x:=ein_double(ed_A);
+    if steigen then x:=x+diff
+               else x:=x-diff;
+    if (x>ein_double(ed_bis)) then steigen:=false;
+    if (x<ein_double(ed_von)) then steigen:=true;
+    ed_A.text:=_strkomma(x,1,2);
+    paintbox1paint(sender);
+    exit;
+  end;
 
+  if rb_punktb.checked then begin
+    diff:=ein_double(ed_delta);
+    x:=ein_double(ed_B);
+    if steigen then x:=x+diff
+               else x:=x-diff;
+    if (x>ein_double(ed_bis)) then steigen:=false;
+    if (x<ein_double(ed_von)) then steigen:=true;
+    ed_B.text:=_strkomma(x,1,2)
+  end else begin
+    diff:=ein_double(ed_delta);
+    if steigen then p:=p+diff
+               else p:=p-diff;
+    if (p>ein_double(ed_bis)) then steigen:=false;
+    if (p<ein_double(ed_von)) then steigen:=true;
+    ed_parameter.text:=_strkomma(p,1,2)
+  end;
+  paintbox1paint(sender);
+end;
+```
 
 
 
