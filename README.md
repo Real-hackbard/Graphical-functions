@@ -20,7 +20,7 @@ Functions were originally the idealization of how a varying quantity depends on 
 
 </br>
 
-
+The domain and codomain are not always explicitly given when a function is defined. In particular, it is common that one might only know, without some (possibly difficult) computation, that the domain of a specific function is contained in a larger set. For example, if ```f : R > R``` is a [real function](https://en.wikipedia.org/wiki/Function_of_a_real_variable), the determination of the domain of the function ```x > 1 / f(x)``` requires knowing the zeros of f. This is one of the reasons for which, in [mathematical analysis](https://en.wikipedia.org/wiki/Mathematical_analysis), "a function from X to Y " may refer to a function having a proper subset of X as a domain. For example, a "function from the reals to the reals" may refer to a [real-valued](https://en.wikipedia.org/wiki/Real-valued_function) function of a real variable whose domain is a proper subset of the [real numbers](https://en.wikipedia.org/wiki/Real_number), typically a subset that contains a non-empty [open interval](https://en.wikipedia.org/wiki/Interval_(mathematics)#open_interval). Such a function is then called a [partial function](https://en.wikipedia.org/wiki/Partial_function).
 
 
 
