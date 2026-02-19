@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.0.x   | :white_check_mark: Curve inversion |
 | 1.0.x   | :white_check_mark: Graphical-functions |
-| 1.0.x   | :white_check_mark: Graphical-functions |
-| 1.0.x   | :white_check_mark: Graphical-functions |
-| 1.0.x   | :white_check_mark: Graphical-functions |
+| 1.0.x   | :white_check_mark: Implicit Curves |
+| 1.0.x   | :white_check_mark: Trigonometric regression |
 
 ## Reporting a Vulnerability
 
