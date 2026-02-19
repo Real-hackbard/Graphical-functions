@@ -153,5 +153,6 @@ begin
 end;
 ```
 
-
+# Update List:
+* [Curve inversion](https://github.com/Real-hackbard/Graphical-functions/tree/main/Curve%20inversion)
 
