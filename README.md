@@ -156,4 +156,5 @@ end;
 # Update List:
 * [Curve inversion](https://github.com/Real-hackbard/Graphical-functions/tree/main/Curve%20inversion)
 * [Graphical functions](https://github.com/Real-hackbard/Graphical-functions/tree/main/Graphical%20functions)
+* [Implicit Curves](https://github.com/Real-hackbard/Graphical-functions/tree/main/Implicit%20Curves)
 
