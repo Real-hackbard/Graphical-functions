@@ -11,6 +11,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Graphical-functions |
 | 1.0.x   | :white_check_mark: Implicit Curves |
 | 1.0.x   | :white_check_mark: Trigonometric regression |
+| 1.0.x   | :white_check_mark: Eulerian & Hamiltonian Cycles |
 
 ## Reporting a Vulnerability
 
