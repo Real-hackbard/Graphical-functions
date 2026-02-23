@@ -158,4 +158,5 @@ end;
 * [Graphical functions](https://github.com/Real-hackbard/Graphical-functions/tree/main/Graphical%20functions)
 * [Implicit Curves](https://github.com/Real-hackbard/Graphical-functions/tree/main/Implicit%20Curves)
 * [Trigonometric regression](https://github.com/Real-hackbard/Graphical-functions/tree/main/Trigonometric%20regression)
+* [Eulerian & Hamiltonian Cycles](https://github.com/Real-hackbard/Graphical-functions/tree/main/Eulerian%20%26%20Hamiltonian%20Cycles)
 
