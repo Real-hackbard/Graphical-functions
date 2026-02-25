@@ -13,6 +13,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Trigonometric regression |
 | 1.0.x   | :white_check_mark: Eulerian & Hamiltonian Cycles |
 | 1.0.x   | :white_check_mark: Wankel Engine disc |
+| 1.0.x   | :white_check_mark: Double Pendulum Calculator |
 
 ## Reporting a Vulnerability
 
