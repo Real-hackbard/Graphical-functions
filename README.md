@@ -163,4 +163,5 @@ end;
 * [Double Pendulum Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Double%20Pendulum%20Calculator)
 * [Koch Curve Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Koch%20Curve%20Calculator)
 * [Triangle Artist](https://github.com/Real-hackbard/Graphical-functions/tree/main/Triangle%20Artist)
+* [Rectangular Grid](https://github.com/Real-hackbard/Graphical-functions/tree/main/Rectangular%20Grid)
 
