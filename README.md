@@ -162,4 +162,5 @@ end;
 * [Wankel Engine disc](https://github.com/Real-hackbard/Graphical-functions/tree/main/Wankel%20Engine%20disc)
 * [Double Pendulum Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Double%20Pendulum%20Calculator)
 * [Koch Curve Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Koch%20Curve%20Calculator)
+* [Triangle Artist](https://github.com/Real-hackbard/Graphical-functions/tree/main/Triangle%20Artist)
 
