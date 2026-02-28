@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Wankel Engine disc |
 | 1.0.x   | :white_check_mark: Double Pendulum Calculator |
 | 1.0.x   | :white_check_mark: Koch Curve Calculator |
+| 1.0.x   | :white_check_mark: Triangle Artist |
 
 ## Reporting a Vulnerability
 
