@@ -17,6 +17,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Koch Curve Calculator |
 | 1.0.x   | :white_check_mark: Triangle Artist |
 | 1.0.x   | :white_check_mark: Rectangular Grid |
+| 1.0.x   | :white_check_mark: Milkmaids Calculation |
 
 ## Reporting a Vulnerability
 
