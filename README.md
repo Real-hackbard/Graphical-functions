@@ -166,4 +166,5 @@ end;
 * [Rectangular Grid](https://github.com/Real-hackbard/Graphical-functions/tree/main/Rectangular%20Grid)
 * [Milkmaids Calculation](https://github.com/Real-hackbard/Graphical-functions/tree/main/Milkmaids%20Calculation)
 * [Temperature Conversion](https://github.com/Real-hackbard/Graphical-functions/tree/main/Temperature%20Conversion)
+* [Semiconductor line Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Semiconductor%20line%20Calculator)
 
