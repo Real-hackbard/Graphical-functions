@@ -18,6 +18,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Triangle Artist |
 | 1.0.x   | :white_check_mark: Rectangular Grid |
 | 1.0.x   | :white_check_mark: Milkmaids Calculation |
+| 1.0.x   | :white_check_mark: Temperature Conversion |
 
 ## Reporting a Vulnerability
 
