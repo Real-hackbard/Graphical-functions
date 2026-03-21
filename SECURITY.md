@@ -24,6 +24,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Cellular |
 | 1.0.x   | :white_check_mark: Sinus Drawer |
 | 1.0.x   | :white_check_mark: Sinus-Curve |
+| 1.0.x   | :white_check_mark: Pendulum Calculator |
 
 ## Reporting a Vulnerability
 
