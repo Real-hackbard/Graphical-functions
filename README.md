@@ -171,4 +171,5 @@ end;
 * [Morse Tree](https://github.com/Real-hackbard/Graphical-functions/tree/main/Morse%20Tree)
 * [Cellular](https://github.com/Real-hackbard/Graphical-functions/tree/main/Cellular)
 * [Sinus Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus%20Drawer)
+* [Sinus-Curve](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus-Curve)
 
