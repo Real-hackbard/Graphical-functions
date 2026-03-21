@@ -170,4 +170,5 @@ end;
 * [Binary search Tree](https://github.com/Real-hackbard/Graphical-functions/tree/main/Binary%20search%20Tree)
 * [Morse Tree](https://github.com/Real-hackbard/Graphical-functions/tree/main/Morse%20Tree)
 * [Cellular](https://github.com/Real-hackbard/Graphical-functions/tree/main/Cellular)
+* [Sinus Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus%20Drawer)
 
