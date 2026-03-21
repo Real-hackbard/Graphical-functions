@@ -22,6 +22,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Semiconductor line Calculator |
 | 1.0.x   | :white_check_mark: Binary search Tree |
 | 1.0.x   | :white_check_mark: Cellular |
+| 1.0.x   | :white_check_mark: Sinus Drawer |
 
 ## Reporting a Vulnerability
 
