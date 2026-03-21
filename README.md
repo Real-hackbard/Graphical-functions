@@ -172,4 +172,5 @@ end;
 * [Cellular](https://github.com/Real-hackbard/Graphical-functions/tree/main/Cellular)
 * [Sinus Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus%20Drawer)
 * [Sinus-Curve](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus-Curve)
+* [Pendulum Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Pendulum%20Calculator)
 
