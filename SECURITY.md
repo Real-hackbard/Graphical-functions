@@ -23,6 +23,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Binary search Tree |
 | 1.0.x   | :white_check_mark: Cellular |
 | 1.0.x   | :white_check_mark: Sinus Drawer |
+| 1.0.x   | :white_check_mark: Sinus-Curve |
 
 ## Reporting a Vulnerability
 
