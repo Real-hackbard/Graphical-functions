@@ -29,6 +29,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Bezier Drawer |
 | 1.0.x   | :white_check_mark: Fibonacci Sunflowers |
 | 1.0.x   | :white_check_mark: Curve fitting |
+| 1.0.x   | :white_check_mark: Gear Drawer |
 
 ## Reporting a Vulnerability
 
