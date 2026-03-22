@@ -173,4 +173,5 @@ end;
 * [Sinus Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus%20Drawer)
 * [Sinus-Curve](https://github.com/Real-hackbard/Graphical-functions/tree/main/Sinus-Curve)
 * [Pendulum Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Pendulum%20Calculator)
+* [Bezier Curve](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Curve)
 
