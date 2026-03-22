@@ -30,6 +30,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Fibonacci Sunflowers |
 | 1.0.x   | :white_check_mark: Curve fitting |
 | 1.0.x   | :white_check_mark: Gear Drawer |
+| 1.0.x   | :white_check_mark: Litter Calculation |
 
 ## Reporting a Vulnerability
 
