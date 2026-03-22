@@ -176,4 +176,5 @@ end;
 * [Bezier Curve](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Curve)
 * [Bezier Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Drawer)
 * [Fibonacci Sunflowers](https://github.com/Real-hackbard/Graphical-functions/tree/main/Fibonacci%20Sunflowers)
+* [Curve fitting](https://github.com/Real-hackbard/Graphical-functions/tree/main/Curve%20fitting)
 
