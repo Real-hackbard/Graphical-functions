@@ -26,6 +26,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Sinus-Curve |
 | 1.0.x   | :white_check_mark: Pendulum Calculator |
 | 1.0.x   | :white_check_mark: Bezier Curve |
+| 1.0.x   | :white_check_mark: Bezier Drawer |
 
 ## Reporting a Vulnerability
 
