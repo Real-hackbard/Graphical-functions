@@ -179,4 +179,5 @@ end;
 * [Curve fitting](https://github.com/Real-hackbard/Graphical-functions/tree/main/Curve%20fitting)
 * [Gear Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Gear%20Drawer)
 * [Litter Calculation](https://github.com/Real-hackbard/Graphical-functions/tree/main/Litter%20Calculation)
+* [Fractals](https://github.com/Real-hackbard/Graphical-functions/tree/main/Fractals)
 
