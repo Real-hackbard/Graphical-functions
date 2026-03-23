@@ -32,6 +32,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Gear Drawer |
 | 1.0.x   | :white_check_mark: Litter Calculation |
 | 1.0.x   | :white_check_mark: Fractals |
+| 1.0.x   | :white_check_mark: Gravity Simulation |
 
 ## Reporting a Vulnerability
 
