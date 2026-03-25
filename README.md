@@ -182,4 +182,5 @@ end;
 * [Fractals](https://github.com/Real-hackbard/Graphical-functions/tree/main/Fractals)
 * [Gravity Simulation](https://github.com/Real-hackbard/Graphical-functions/tree/main/Gravity%20Simulation)
 * [Points Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Points%20Drawer)
+* [XY Graph](https://github.com/Real-hackbard/Graphical-functions/tree/main/XY%20Graph)
 
