@@ -33,6 +33,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Litter Calculation |
 | 1.0.x   | :white_check_mark: Fractals |
 | 1.0.x   | :white_check_mark: Gravity Simulation |
+| 1.0.x   | :white_check_mark: XY Graph |
 
 ## Reporting a Vulnerability
 
