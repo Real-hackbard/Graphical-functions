@@ -37,6 +37,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: TChart Graphs |
 | 1.0.x   | :white_check_mark: Plot-3D |
 | 1.0.x   | :white_check_mark: Vector Drawer |
+| 1.0.x   | :white_check_mark: Waterfall |
 
 ## Reporting a Vulnerability
 
