@@ -36,6 +36,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: XY Graph |
 | 1.0.x   | :white_check_mark: TChart Graphs |
 | 1.0.x   | :white_check_mark: Plot-3D |
+| 1.0.x   | :white_check_mark: Vector Drawer |
 
 ## Reporting a Vulnerability
 
