@@ -35,6 +35,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Gravity Simulation |
 | 1.0.x   | :white_check_mark: XY Graph |
 | 1.0.x   | :white_check_mark: TChart Graphs |
+| 1.0.x   | :white_check_mark: Plot-3D |
 
 ## Reporting a Vulnerability
 
