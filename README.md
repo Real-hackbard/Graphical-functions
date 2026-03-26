@@ -184,4 +184,5 @@ end;
 * [Points Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Points%20Drawer)
 * [XY Graph](https://github.com/Real-hackbard/Graphical-functions/tree/main/XY%20Graph)
 * [TChart Graphs](https://github.com/Real-hackbard/Graphical-functions/tree/main/TChart%20Graphs)
+* [Plot-3D](https://github.com/Real-hackbard/Graphical-functions/tree/main/Plot-3D)
 
