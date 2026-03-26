@@ -183,4 +183,5 @@ end;
 * [Gravity Simulation](https://github.com/Real-hackbard/Graphical-functions/tree/main/Gravity%20Simulation)
 * [Points Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Points%20Drawer)
 * [XY Graph](https://github.com/Real-hackbard/Graphical-functions/tree/main/XY%20Graph)
+* [TChart Graphs](https://github.com/Real-hackbard/Graphical-functions/tree/main/TChart%20Graphs)
 
