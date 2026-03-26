@@ -186,4 +186,5 @@ end;
 * [TChart Graphs](https://github.com/Real-hackbard/Graphical-functions/tree/main/TChart%20Graphs)
 * [Plot-3D](https://github.com/Real-hackbard/Graphical-functions/tree/main/Plot-3D)
 * [Vector Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Vector%20Drawer)
+* [Waterfall](https://github.com/Real-hackbard/Graphical-functions/tree/main/Waterfall)
 
