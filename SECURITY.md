@@ -39,6 +39,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Vector Drawer |
 | 1.0.x   | :white_check_mark: Waterfall |
 | 1.0.x   | :white_check_mark: Gravity Calculator |
+| 1.0.x   | :white_check_mark: Canvas Stars |
 
 ## Reporting a Vulnerability
 
