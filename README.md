@@ -189,4 +189,5 @@ end;
 * [Waterfall](https://github.com/Real-hackbard/Graphical-functions/tree/main/Waterfall)
 * [Gravity Calculator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Gravity%20Calculator)
 * [Canvas Stars](https://github.com/Real-hackbard/Graphical-functions/tree/main/Canvas%20Stars)
+* [Poly Lines Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Poly%20Lines%20Drawer)
 
