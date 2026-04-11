@@ -41,6 +41,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Gravity Calculator |
 | 1.0.x   | :white_check_mark: Canvas Stars |
 | 1.0.x   | :white_check_mark: Poly Lines Drawer |
+| 1.0.x   | :white_check_mark: Bezier Curve Generator |
 
 ## Reporting a Vulnerability
 
