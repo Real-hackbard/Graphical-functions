@@ -191,4 +191,5 @@ end;
 * [Canvas Stars](https://github.com/Real-hackbard/Graphical-functions/tree/main/Canvas%20Stars)
 * [Poly Lines Drawer](https://github.com/Real-hackbard/Graphical-functions/tree/main/Poly%20Lines%20Drawer)
 * [Bezier Curve Generator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Curve%20Generator)
+* [Pendulum](https://github.com/Real-hackbard/Graphical-functions/tree/main/Pendulum)
 
