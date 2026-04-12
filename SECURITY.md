@@ -43,6 +43,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Poly Lines Drawer |
 | 1.0.x   | :white_check_mark: Bezier Curve Generator |
 | 1.0.x   | :white_check_mark: Pendulum |
+| 1.0.x   | :white_check_mark: Physics |
 
 ## Reporting a Vulnerability
 
