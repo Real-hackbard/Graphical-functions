@@ -44,6 +44,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Bezier Curve Generator |
 | 1.0.x   | :white_check_mark: Pendulum |
 | 1.0.x   | :white_check_mark: Physics |
+| 1.0.x   | :white_check_mark: Bezier Edit |
 
 ## Reporting a Vulnerability
 
