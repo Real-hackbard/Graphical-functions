@@ -193,4 +193,5 @@ end;
 * [Bezier Curve Generator](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Curve%20Generator)
 * [Pendulum](https://github.com/Real-hackbard/Graphical-functions/tree/main/Pendulum)
 * [Physics](https://github.com/Real-hackbard/Graphical-functions/tree/main/Physics)
+* [Bezier Edit](https://github.com/Real-hackbard/Graphical-functions/tree/main/Bezier%20Edit)
 
