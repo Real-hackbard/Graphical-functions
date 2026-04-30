@@ -45,6 +45,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Pendulum |
 | 1.0.x   | :white_check_mark: Physics |
 | 1.0.x   | :white_check_mark: Bezier Edit |
+| 1.0.x   | :white_check_mark: Math Parser |
 
 ## Reporting a Vulnerability
 
