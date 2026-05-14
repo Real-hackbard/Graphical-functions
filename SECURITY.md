@@ -46,6 +46,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Physics |
 | 1.0.x   | :white_check_mark: Bezier Edit |
 | 1.0.x   | :white_check_mark: Math Parser |
+| 1.0.x   | :white_check_mark: Circle Calculations |
 
 ## Reporting a Vulnerability
 
